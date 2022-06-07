@@ -9,4 +9,29 @@ Tugas 1
 
 # Jawaban
 
-1. 
+1. Berdasarkan Materi pertama (Def Database), dengan mengutip dari Wiki bahwa Database (Basis Data) adalah kumpulan data yang terorganisasi.
+
+2. RDMS merupakan kredensial dari "Relational Database Management System". Secara sederhana, RDMS merupakan aplikasi database yang menggunakan prinsip relasional / Relasi atau lebih kita kenal sebagai *Tabel* sebagai dasarnya. Setiap tabel terdiri dari *tuple (record)* dan *atribut (field)*. Kedua istilah ini tidak lain sebutan untuk *baris dan kolom* di dalam sebuah tabel. Inilah yang dimaksud dengan Sistem Manajemen Basis Data yang berelasi / RDMS.  
+
+3. Berdasarkan pada Materi ke-2 (Peng. Db Model), ada banyak cara yang dikembangkan untuk menyimpan Data pada DB Model, mulai dari :
+- *Flat Model* : Menyimpan data tanpa aturan dan cara penulisan tertentu.  
+- *Hierarchical Model* : Data terorganisasi dari atas ke bawah.  
+- *Network Model* : Pengembangan dari hierarchical model.  
+- *Relational Model*  : Menyusun data ke dalam bentuk tabel yang saling terhubung.
+- *Object Oriented Model* : Menggunakan pendekatan object dalam menyimpan data.
+
+4.	- MariaDB
+	- PostgreSQL
+	- MS SQL Server
+	- Mongo DB
+	- Oracle
+	- SqLite
+
+
+5. Dengan mengutip sedikit Naskah dari Materi ke 5 (MySQL sebg RDBMS), Berikut beberapa keunggulan MySQL dibandingkan dengan RDBMS lain:
+
+  - Speed
+  - Reliability
+  - Scalability
+  - User Friendly
+  - Open Source Code  
