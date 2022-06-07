@@ -1,0 +1,5 @@
+1. Tuple adalah Record dari setiap Data yang ada. Biasa kita kenal sebagai Row. Adapun Atribut merupakan Field yang ada dalam setiap Tabel. Biasa kita kenal sebagai Kolom. Sedangkan Relational merupakan Fungsi Relasi dari satu tabel ke Tabel yang lainnya yang saling berkaitan satu sama lain.
+
+2. Tabel Mahasiswa memiliki 5 Atribut antara lain NPM, Nama, Jenis Kelamin, Jurusan dan IPK. Tabel tersebut memiliki 3 Record Data (Tuple) yang saya sebut NPM dari masing2 Atribut tersebut sebagai ID dari masing2 Record yang ada, antara lain : 57119789, 51319653 dan 56719451. Sebagai Contoh, Data dengan ID 57119789 adalah bernama Andi Gunawan berjenis Kelamin Laki-laki Jurusan Akuntansi dengan IPK 3.29, Dst.
+
+3. Primary key adalah kolom yang akan menjadi identitas dari setiap baris tabel. Sedangkan Candidate Key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi bahkan menjabarkan tiap baris / Data yang terkait dari tabel tersebut.

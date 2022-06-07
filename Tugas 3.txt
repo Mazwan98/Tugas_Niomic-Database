@@ -1,0 +1,9 @@
+1. X + Apache + MariaDB + PHP + Perl. X adalah maksud dari kesemuanya secara umum. Kalo di Windows adalah WAMPP, di Linux adalah LAMPP, Mac MAMPP, dari ketiganya itu di bandel ke dalam X-AMPP.
+
+2. Dengan membuka XAMPP dan mengunjungi http://localhost/. Pastikan Sistem Apache sudah Runn
+
+3. Apache dan MySQL ATAU klik tombol Start pada baris MySQL dari XAMPP Control Panel. 
+
+4. dengan Mengunjungi http://localhost/phpMyAdmin pada browser saat sistem Apache sudah Runn.
+
+5. mengetik script berikut melalui CMD/CLI => "/opt/lampp/mysql/bin/mysql -u root" (Linux) atau "c:\xampp\mysql\bin\mysql -u root" (Windows)
