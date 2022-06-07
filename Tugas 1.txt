@@ -1,0 +1,12 @@
+Tugas 1
+
+1. Apa yang dimaksud dengan database?
+2. Apa singkatan dan pengertian dari RDBMS?
+3. Sebutkan 5 cara apa saja yang dipakai dalam penyimpanan data pada database model!
+4. Sebutkan 6 aplikasi RDBMS selain MySQL!
+5. Sebutkan 5 keunggulan MySQL sebagai RDBMS!
+
+
+# Jawaban
+
+1. 
